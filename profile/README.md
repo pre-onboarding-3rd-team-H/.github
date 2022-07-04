@@ -20,7 +20,7 @@
 ```
 # --- 제목(title) - 50자 이내로 ---
 # <타입(type)> <제목(title)>
-# 예시(ex) : Docs : #1(이슈번호)
+# 예시(ex) : Docs : #1 README.md 수정
 # --- 본문(content) - 72자마다 줄바꾸기  ---
 # 예시(ex) :
 # - Workflow
